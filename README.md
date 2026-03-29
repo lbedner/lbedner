@@ -1,4 +1,4 @@
-# Hey, I'm Leonard.
+# Hey, I'm Leonard (aka Challseus)
 
 I've been building software since 2004. Games, enterprise systems, and now AI infrastructure. I take problems from idea to production.
 
