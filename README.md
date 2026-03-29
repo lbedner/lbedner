@@ -6,7 +6,7 @@ I've been building software since 2004. Games, enterprise systems, and now AI in
 
 [Aegis Stack](https://github.com/lbedner/aegis-stack)
 
-A production-ready FastAPI platform for real-world AI systems. RAG, agents, workers, and a control plane.
+A production-ready FastAPI platform with modular components and a built-in control plane.
 
 - 15K+ PyPI downloads across 25+ countries
 - 600+ unique developer environments every 14 days
