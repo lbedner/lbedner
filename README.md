@@ -13,6 +13,12 @@ A production-ready FastAPI platform with modular components and a built-in contr
 - CLI localized in Mandarin (Japanese and Korean coming soon)
 - [Sector 7G live demo](https://sector-7g.dev/dashboard/) has been processing over millions of tasks without restart
 
+Try it out with:
+
+```bash
+uvx aegis-stack init my-app
+```
+
 ## Rose of Eternity
 
 An RPG series I've been building since 1999. Three shipped titles, 61,000+ downloads:
