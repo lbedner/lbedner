@@ -8,16 +8,21 @@ I've been building software since 2004. Games, enterprise systems, and now AI in
 
 A production-ready FastAPI platform with modular components and a built-in control plane.
 
-- 15K+ PyPI downloads across 25+ countries
+- publicly [announced](https://www.reddit.com/r/FastAPI/comments/1pdc89x/i_built_a_fastapi_cli_that_scaffolds_full_apps/) on Dec 3rd, 2025
+- 16K+ downloads across 25+ countries
 - 600+ unique developer environments every 14 days
-- CLI localized in Mandarin (Japanese and Korean coming soon)
-- [Sector 7G live demo](https://sector-7g.dev/dashboard/) has been processing over millions of tasks without restart
+- CLI localized in 9 languages including Mandarin, Japanese, and Korean
 
 Try it out with:
 
 ```bash
 uvx aegis-stack init my-app
 ```
+
+### Apps Created with Aegis Stack                                                                                                        
+                                                                                                                                           
+  - [Sector 7G](https://sector-7g.dev/dashboard/) — Live demo processing millions of tasks on a single $5 VPS with zero restarts           
+  - [NWVault Revival](http://167.99.48.44/) — Read-only searchable archive of the original Neverwinter Vault (2002-2014), built in 24 hours
 
 ## Rose of Eternity
 
