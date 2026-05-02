@@ -9,7 +9,7 @@ I've been building software since 2004. Games, enterprise systems, and now AI in
 A production-ready FastAPI platform with modular components and a built-in control plane.
 
 - publicly [announced](https://www.reddit.com/r/FastAPI/comments/1pdc89x/i_built_a_fastapi_cli_that_scaffolds_full_apps/) on Dec 3rd, 2025
-- 16K+ downloads across 25+ countries
+- 19K+ downloads across 25+ countries
 - 600+ unique developer environments every 14 days
 - CLI localized in 9 languages including Mandarin, Japanese, and Korean
 
