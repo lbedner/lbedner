@@ -9,7 +9,6 @@ I've been building software since 2004. Games, enterprise systems, and now AI in
 A production-ready FastAPI platform with modular components and a built-in control plane.
 
 - publicly [announced](https://www.reddit.com/r/FastAPI/comments/1pdc89x/i_built_a_fastapi_cli_that_scaffolds_full_apps/) on Dec 3rd, 2025
-- 19K+ downloads across 25+ countries
 - 600+ unique developer environments every 14 days
 - CLI localized in 9 languages including Mandarin, Japanese, and Korean
 
@@ -19,8 +18,13 @@ Try it out with:
 uvx aegis-stack init my-app
 ```
 
-### Apps Created with Aegis Stack                                                                                                        
-                                                                                                                                           
+<a href="https://pulse.aegis-stack.io/search/aegis-stack">
+  <img src="https://pulse.aegis-stack.io/search/aegis-stack/card.png" alt="Aegis Stack PyPI downloads" width="420">
+</a>
+
+### Apps Created with Aegis Stack                        
+
+  - [Aegis Pulse](https://pulse.aegis-stack.io/) — Analytics dashboard: PyPI downloads, GitHub clones/stars, and traffic over time
   - [Sector 7G](https://sector-7g.dev/dashboard/) — Live demo processing millions of tasks on a single $5 VPS with zero restarts           
   - [NWVault Revival](http://167.99.48.44/) — Read-only searchable archive of the original Neverwinter Vault (2002-2014), built in 24 hours
 
@@ -63,4 +67,4 @@ I design systems end-to-end and ship them.
 
 ## Links
 
-📦 [PyPI](https://pypi.org/project/aegis-stack/) · 📖 [Docs](https://lbedner.github.io/aegis-stack/) · 🔴 [Live Demo](https://sector-7g.dev/dashboard/) · 💼 [LinkedIn](https://linkedin.com/in/leonard-bedner-293a292) · 𝕏 [@leonardbedner](https://x.com/leonardbedner)
+[PyPI](https://pypi.org/project/aegis-stack/) · [Docs](https://lbedner.github.io/aegis-stack/) · [Live Demo](https://sector-7g.dev/dashboard/) · [LinkedIn](https://linkedin.com/in/leonard-bedner-293a292) · [X](https://x.com/leonardbedner)
